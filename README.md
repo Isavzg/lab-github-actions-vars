@@ -1,6 +1,6 @@
 ## Respostas
 
-**Por que a Secret aparece como ***?** 
+**Por que a Secret aparece como?**
 Porque o GitHub protege automaticamente dados sensíveis nos logs.
 
 **O Job 2 consegue acessar BUILD_VERSION?**
